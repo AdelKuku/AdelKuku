@@ -6,9 +6,9 @@ Data Analyst
 
 I enjoy exploring and analyzing datasets to extract patterns that can be used to identify needs and recommend solutions that deliver value to businesses
 
-* 🌍  I'm based in Lagos
+* 🌍  I'm based in Winnipeg MB
 * ✉️  You can contact me at [adelodun.kuku@yahoo.com](mailto:adelodun.kuku@yahoo.com)
-* 🧠  I'm learning Data Manipulation and Visualization with Ms Excel, Power BI, SQL and Python
+* 🧠  Interested in Data Management, Manipulation and Visualization with Ms Excel, Power BI, SQL and Python
 * ⚡  You can just call me Adel
 
 ### Skills
